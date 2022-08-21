@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:textAlignment="center"
+    tools:context=".grocerylist">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/my"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?attr/colorPrimary"
+        android:backgroundTint="@color/white"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="?attr/actionBarTheme"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/action"
+            android:layout_width="77dp"
+            android:layout_height="43dp"
+            android:layout_marginTop="7dp"
+            android:layout_marginEnd="36dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/shareicon" />
+
+        <TextView
+            android:id="@+id/textView12"
+            android:layout_width="207dp"
+            android:layout_height="41dp"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="6dp"
+            android:text="hello"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="24sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/imageView14"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/imageView14"
+            android:layout_width="62dp"
+            android:layout_height="40dp"
+            android:layout_marginTop="6dp"
+            android:layout_marginBottom="4dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/back" />
+
+        <ImageView
+            android:id="@+id/imageView8"
+
+            android:layout_width="25dp"
+            android:layout_height="33dp"
+            android:layout_marginTop="11dp"
+            android:layout_marginEnd="5dp"
+            android:layout_marginBottom="6dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/ic"
+
+            />
+
+        <ImageView
+            android:id="@+id/delete"
+            android:layout_width="40dp"
+            android:layout_height="32dp"
+            android:layout_marginTop="12dp"
+            android:visibility="invisible"
+            app:layout_constraintEnd_toStartOf="@+id/action"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/delete" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="175dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginBottom="12dp"
+        android:background="@drawable/roundbutton"
+        android:text="Assinged to all"
+        app:layout_constraintBottom_toTopOf="@+id/assingedparent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="170dp"
+        android:layout_height="48dp"
+        android:layout_marginEnd="36dp"
+        android:layout_marginBottom="12dp"
+        android:background="@drawable/roundbutton"
+        android:text="Assinged To me"
+        app:layout_constraintBottom_toTopOf="@+id/assingedparent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/assingedparent"
+        android:layout_width="411dp"
+        android:layout_height="504dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/showmenu" />
+
+    <FrameLayout
+        android:id="@+id/showmenu"
+        android:layout_width="118dp"
+        android:layout_height="110dp"
+        android:layout_marginEnd="4dp"
+        app:layout_constraintBottom_toTopOf="@+id/assingedparent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/my">
+
+    </FrameLayout>
+
+    <androidx.coordinatorlayout.widget.CoordinatorLayout
+        android:id="@+id/coordinatorLayout"
+        android:layout_width="405dp"
+        android:layout_height="533dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <FrameLayout
+            android:id="@+id/unique"
+            android:layout_width="427dp"
+            android:layout_height="600dp"
+            app:layout_behavior="com.google.android.material.bottomsheet.BottomSheetBehavior"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent">
+
+        </FrameLayout>
+
+        <Button
+            android:id="@+id/button10"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="350dp"
+            android:layout_marginTop="414dp"
+            android:background="@drawable/round"
+            android:backgroundTint="@color/black"
+            android:text="+"
+            android:textColor="@color/white"
+            android:textSize="34sp" />
+
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

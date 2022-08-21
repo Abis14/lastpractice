@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/2ndmouseventure/Desktop/goceryapp/groceryapp/app/src/main/res/layout/activity_grocerylist.xml" value="0.67" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/goceryapp/groceryapp/app/src/main/res/layout/activity_listadd.xml" value="0.175" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/goceryapp/groceryapp/app/src/main/res/layout/activity_share.xml" value="0.5" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/goceryapp/groceryapp/app/src/main/res/layout/fragment_addtolist.xml" value="0.175" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/goceryapp/groceryapp/app/src/main/res/layout/grocerylistchildcard.xml" value="0.271286231884058" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/goceryapp/groceryapp/app/src/main/res/layout/grocerylistparentcard.xml" value="0.271286231884058" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/goceryapp/groceryapp/app/src/main/res/layout/spinneritem.xml" value="0.271286231884058" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/groceryapp/app/src/main/res/drawable/border.xml" value="0.2875" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/groceryapp/app/src/main/res/drawable/circle.xml" value="0.1" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/groceryapp/app/src/main/res/drawable/circlebutton.xml" value="0.186" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/groceryapp/app/src/main/res/drawable/circlepink.xml" value="0.1435" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/groceryapp/app/src/main/res/drawable/round.xml" value="0.2875" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/groceryapp/app/src/main/res/drawable/roundbutton.xml" value="0.25" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/groceryapp/app/src/main/res/drawable/rounded.xml" value="0.2875" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/groceryapp/app/src/main/res/drawable/selectbutton.xml" value="0.187" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/groceryapp/app/src/main/res/layout/actionbar.xml" value="0.67" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/groceryapp/app/src/main/res/layout/activity_addelement.xml" value="0.175" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/groceryapp/app/src/main/res/layout/activity_grocerylist.xml" value="0.23310810810810811" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/groceryapp/app/src/main/res/layout/activity_list.xml" value="0.175" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/groceryapp/app/src/main/res/layout/activity_listadd.xml" value="0.2779868297271872" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/groceryapp/app/src/main/res/layout/activity_main.xml" value="0.175" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/groceryapp/app/src/main/res/layout/activity_search2.xml" value="0.175" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/groceryapp/app/src/main/res/layout/activity_share.xml" value="0.26766304347826086" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/groceryapp/app/src/main/res/layout/activity_signin.xml" value="0.175" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/groceryapp/app/src/main/res/layout/card.xml" value="0.175" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/groceryapp/app/src/main/res/layout/childcard.xml" value="0.1" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/groceryapp/app/src/main/res/layout/content_search.xml" value="0.175" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/groceryapp/app/src/main/res/layout/donelist.xml" value="0.1765625" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/groceryapp/app/src/main/res/layout/fragment_addelement2.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/groceryapp/app/src/main/res/layout/fragment_addtolist.xml" value="0.175" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/groceryapp/app/src/main/res/layout/fragment_assingedfragment.xml" value="0.75" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/groceryapp/app/src/main/res/layout/fragment_assingedtoalllist.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/groceryapp/app/src/main/res/layout/fragment_first.xml" value="0.175" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/groceryapp/app/src/main/res/layout/fragment_frame.xml" value="0.175" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/groceryapp/app/src/main/res/layout/fragment_icondisplay.xml" value="0.9" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/groceryapp/app/src/main/res/layout/fragment_menu.xml" value="0.67" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/groceryapp/app/src/main/res/layout/grocerylistchildcard.xml" value="0.25" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/groceryapp/app/src/main/res/layout/grocerylistparentcard.xml" value="0.33" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/groceryapp/app/src/main/res/layout/item.xml" value="0.175" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/groceryapp/app/src/main/res/layout/itemicon.xml" value="0.175" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/groceryapp/app/src/main/res/layout/listactionbar.xml" value="0.271286231884058" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/groceryapp/app/src/main/res/layout/listaddactionbar.xml" value="0.26766304347826086" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/groceryapp/app/src/main/res/layout/searchcard.xml" value="0.2694746376811594" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/groceryapp/app/src/main/res/layout/searchchildcard.xml" value="0.2694746376811594" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/groceryapp/app/src/main/res/layout/searchmenu.xml" value="0.27574468085106385" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/groceryapp/app/src/main/res/layout/spinneritem.xml" value="0.26766304347826086" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/groceryapp/app/src/main/res/menu/custommenu.xml" value="0.17395833333333333" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/myprojectlast-master/app/src/main/res/drawable/newbg.xml" value="0.226" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/myprojectlast-master/app/src/main/res/drawable/oneborder.xml" value="0.226" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/myprojectlast-master/app/src/main/res/drawable/round.xml" value="0.226" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/myprojectlast-master/app/src/main/res/drawable/roundbut.xml" value="0.226" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/myprojectlast-master/app/src/main/res/layout/activity_grocerylist.xml" value="0.25" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/myprojectlast-master/app/src/main/res/layout/card.xml" value="0.33" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/myprojectlast-master/app/src/main/res/layout/childcard.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/myprojectlast-master/app/src/main/res/layout/fragment_addtolist.xml" value="0.40764331210191085" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/myprojectlast-master/app/src/main/res/layout/fragment_assingedfragment.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/myprojectlast-master/app/src/main/res/layout/fragment_assingedtoalllist.xml" value="0.35280797101449274" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/myprojectlast-master/app/src/main/res/layout/fragment_categoryfragment.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/myprojectlast-master/app/src/main/res/layout/fragment_editfragment.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/myprojectlast-master/app/src/main/res/layout/fragment_groceryadd.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/myprojectlast-master/app/src/main/res/layout/fragment_groceryaddassign.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/myprojectlast-master/app/src/main/res/layout/fragment_groceryaddcategory.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/myprojectlast-master/app/src/main/res/layout/grocerylistchildcard.xml" value="0.5615491009681881" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/myprojectlast-master/app/src/main/res/layout/grocerylistparentcard.xml" value="0.75" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/myprojectlast-master/app/src/main/res/layout/personimages.xml" value="0.67" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/myprojectlast-master/app/src/main/res/layout/spinneritem.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/mytest-master/mytest-master/app/src/main/res/drawable/border.xml" value="0.226" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/mytest-master/mytest-master/app/src/main/res/drawable/nocolor.xml" value="0.226" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/mytest-master/mytest-master/app/src/main/res/drawable/roundbutton.xml" value="0.226" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/mytest-master/mytest-master/app/src/main/res/layout/activity_addelement.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/mytest-master/mytest-master/app/src/main/res/layout/activity_grocerylist.xml" value="0.31683168316831684" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/mytest-master/mytest-master/app/src/main/res/layout/activity_list.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/mytest-master/mytest-master/app/src/main/res/layout/activity_listadd.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/mytest-master/mytest-master/app/src/main/res/layout/activity_share.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/2ndmouseventure/Desktop/mytest-master/mytest-master/app/src/main/res/layout/fragment_addelement2.xml" value="0.5" />
+        <entry key="..\:/Users/Abis/Desktop/groceryapp/app/src/main/res/drawable/circle.xml" value="0.1" />
+        <entry key="..\:/Users/Abis/Desktop/groceryapp/app/src/main/res/drawable/circlepink.xml" value="0.1" />
+        <entry key="..\:/Users/Abis/Desktop/groceryapp/app/src/main/res/drawable/round.xml" value="0.1" />
+        <entry key="..\:/Users/Abis/Desktop/groceryapp/app/src/main/res/drawable/rounded.xml" value="0.1" />
+        <entry key="..\:/Users/Abis/Desktop/groceryapp/app/src/main/res/layout/actionbar.xml" value="0.1" />
+        <entry key="..\:/Users/Abis/Desktop/groceryapp/app/src/main/res/layout/activity_addelement.xml" value="0.22" />
+        <entry key="..\:/Users/Abis/Desktop/groceryapp/app/src/main/res/layout/activity_list.xml" value="0.1" />
+        <entry key="..\:/Users/Abis/Desktop/groceryapp/app/src/main/res/layout/activity_listadd.xml" value="0.22" />
+        <entry key="..\:/Users/Abis/Desktop/groceryapp/app/src/main/res/layout/fragment_addelement2.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Abis/Desktop/groceryapp/app/src/main/res/layout/fragment_addtolist.xml" value="0.18" />
+        <entry key="..\:/Users/Abis/Desktop/groceryapp/app/src/main/res/layout/fragment_frame.xml" value="0.1" />
+        <entry key="..\:/Users/Abis/Desktop/groceryapp/app/src/main/res/layout/listactionbar.xml" value="0.1" />
+        <entry key="..\:/Users/Abis/Desktop/groceryapp/app/src/main/res/layout/spinneritem.xml" value="0.1" />
+        <entry key="..\:/Users/Abis/Desktop/groceryapp14-master (3)/groceryapp14-master/app/src/main/res/drawable/rounded.xml" value="0.1" />
+        <entry key="..\:/Users/Abis/Desktop/groceryapp14-master (3)/groceryapp14-master/app/src/main/res/layout/activity_listadd.xml" value="0.1" />
+        <entry key="..\:/Users/Abis/Desktop/groceryapp14-master (3)/groceryapp14-master/app/src/main/res/layout/activity_share.xml" value="0.22" />
+        <entry key="..\:/Users/Abis/Desktop/groceryapp14-master (3)/groceryapp14-master/app/src/main/res/layout/fragment_addtolist.xml" value="0.1943127962085308" />
+        <entry key="..\:/Users/Abis/Desktop/groceryapp14-master (3)/groceryapp14-master/app/src/main/res/layout/fragment_assingedfragment.xml" value="0.1" />
+        <entry key="..\:/Users/Abis/Desktop/groceryapp14-master (3)/groceryapp14-master/app/src/main/res/layout/fragment_assingedtoalllist.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Abis/Desktop/groceryapp14-master (3)/groceryapp14-master/app/src/main/res/layout/fragment_categoryfragment.xml" value="0.1" />
+        <entry key="..\:/Users/Abis/Desktop/groceryapp14-master (3)/groceryapp14-master/app/src/main/res/layout/fragment_linkfragment.xml" value="0.22748815165876776" />
+        <entry key="..\:/Users/Abis/Desktop/groceryapp14-master (3)/groceryapp14-master/app/src/main/res/layout/spinneritem.xml" value="0.25" />
+        <entry key="..\:/Users/Abis/Desktop/shared-master/app/src/main/res/layout/fragment_editfragment.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Abis/Desktop/shared-master/app/src/main/res/layout/fragment_groceryadd.xml" value="0.2978227060653188" />
+        <entry key="..\:/Users/Abis/Desktop/shared-master/app/src/main/res/layout/fragment_groceryaddassign.xml" value="0.19947916666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

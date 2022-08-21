@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/groceryparentcard"
+    android:layout_width="match_parent"
+    android:layout_height="300dp"
+    android:layout_margin="10dp"
+    app:cardBackgroundColor="@android:color/white"
+    app:cardCornerRadius="5dp"
+    app:cardElevation="8dp">
+
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="142dp"
+            android:layout_height="37dp"
+            android:layout_marginStart="11dp"
+            android:layout_marginTop="11dp"
+            android:text="TextView"
+            android:textStyle="bold|italic"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recchild"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="11dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginEnd="5dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView7"
+            tools:listitem="@layout/childcard" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/imgrec"
+        android:layout_width="402dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="280dp"/>
+
+
+</androidx.cardview.widget.CardView>
